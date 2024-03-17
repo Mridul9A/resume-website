@@ -7,8 +7,7 @@ const Resume = () => {
   return (
     <div id="resume-content">
       <div className="container">
-        <h1>Resume</h1>
-        <h2>MANG Company Job Application</h2>
+        <h1>Mridul</h1>
 
         <div className="section-header">
           <h2>Summary</h2>
