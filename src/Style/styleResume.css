@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+h1,
+h2 {
+  text-align: center;
+}
+h2 {
+  margin-top: 30px;
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+p {
+  margin-bottom: 10px;
+}
+.section-header {
+  margin-top: 40px;
+}
+.experience {
+  margin-bottom: 30px;
+}
+.project {
+  margin-bottom: 30px;
+}
+.skill {
+  margin-bottom: 20px;
+}
+.languages {
+  margin-bottom: 20px;
+}
