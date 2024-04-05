@@ -9,15 +9,36 @@ const Resume = () => {
       <div className="container">
         <h1>Mridul</h1>
 
-        <div className="section-header">
+        <div className="linkAccount">
+          <span>
+            <a href="tel:8709165107">8709165107</a>
+          </span>
+
+          <span>
+            <a href="mailto:mridul0990@gmail.com">mridul0990@gmail.com</a>
+          </span>
+
+          <span>
+            <a href="https://www.linkedin.com/in/mridul09" target="_blank">
+              https://www.linkedin.com/in/mridul09
+            </a>
+          </span>
+        </div>
+
+        <div className="section-header summary">
           <h2>Summary</h2>
           <p>
-            Experienced developer proficient in HTML, CSS, JavaScript,
-            AngularJS, and ReactJS. Known for crafting engaging web interfaces
-            with a focus on user experience. Dedicated to delivering exceptional
-            results and designing visually appealing, highly functional
-            websites. Ready to contribute effectively to any team or project
-            with innovative solutions and a commitment to success.
+            Experienced developer proficient in JavaScript, C#, C/C++, Python,
+            and Java Core. Skilled in frontend technologies like Angular and
+            ReactJS, with expertise in HTML5 and CSS. Familiar with backend
+            frameworks such as Node.js and Express.js, along with Python
+            frameworks Flask and Django. Also proficient in .Net Core, .Net MVC,
+            and experienced in backend development using .Net technology.
+            Knowledgeable in database management with MySQL and MongoDB,
+            experienced in designing and implementing RESTful APIs. Proficient
+            in Git for version control and adept with cloud services like AWS
+            and Azure. Ready to leverage skills and experience to contribute
+            effectively to projects and teams
           </p>
         </div>
 

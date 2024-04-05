@@ -3,6 +3,7 @@ body {
   margin: 0;
   padding: 0;
 }
+
 .container {
   max-width: 800px;
   margin: 50px auto;
@@ -11,6 +12,7 @@ body {
   border-radius: 5px;
   background-color: #f9f9f9;
 }
+
 h1,
 h2 {
   text-align: center;
@@ -37,4 +39,34 @@ p {
 }
 .languages {
   margin-bottom: 20px;
+}
+
+/* summary */
+.summary {
+  margin-top: 40px;
+}
+
+.summary p {
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+/* linkAccount styling */
+.linkAccount {
+  display: flex;
+  flex-direction: column;
+}
+
+.linkAccount span {
+  margin-bottom: 10px;
+}
+
+.linkAccount a {
+  color: #007bff; /* blue color */
+  text-decoration: none;
+}
+
+.linkAccount a:hover {
+  text-decoration: underline;
+  color: red;
 }
